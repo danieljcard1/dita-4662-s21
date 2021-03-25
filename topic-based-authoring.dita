@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="Untitled">
+    <title>Topic-Based Authoring</title>
+    <shortdesc>Topic-based authoring is an approach to writing in which authors create individual
+        chunks of writing called topics.</shortdesc>
+    <conbody>
+        <p>Topic-based authoring is often contrasted with document-based authoring. While
+            document-based authoring is linear, topic-based authoring allows authors to create many
+            individual chunks of writing called topics. Those topics can then be assembled and
+            output in a variety of formats.</p>
+    </conbody>
+</concept>
